@@ -18,3 +18,6 @@ atlassian-ide-plugin.xml
 
 # Project database
 *.db
+
+#startapp commands
+startapp*.cmd

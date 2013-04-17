@@ -1,1 +1,1 @@
-python manage.py startapp homoeo_med_inventory
+python manage.py startapp <app-name>
