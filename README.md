@@ -21,3 +21,10 @@ This is the template that I use to create a new django project for development i
 
 * gtignore file is created to ignore local settings, db file etc,.
 
+To create project with this template
+
+```
+python django-admin.py startproject --template=https://github.com/affenity/django-project-template/archive/master.zip <project_name>
+
+```
+
