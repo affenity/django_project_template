@@ -1,0 +1,1 @@
+python manage.py startapp homoeo_med_inventory
