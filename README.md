@@ -1,7 +1,7 @@
 Django Project Template
 ========================
 
-This is the template that I use to create a new django project for development in a windows environment.
+This is the template that I use to create a new django project for development in a windows environment. It makes use of the template argument that was added to the startproject command.
 
 * admin is enabled by default
 
