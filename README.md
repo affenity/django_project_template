@@ -26,6 +26,5 @@ To create project with this template
 ```
 git clone https://github.com/affenity/django-project-template.git
 python django-admin.py startproject --template=django-project-template <project_name>
-
 ```
 
