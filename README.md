@@ -24,7 +24,8 @@ This is the template that I use to create a new django project for development i
 To create project with this template
 
 ```
-python django-admin.py startproject --template=https://github.com/affenity/django-project-template/archive/master.zip <project_name>
+git clone https://github.com/affenity/django-project-template.git
+python django-admin.py startproject --template=django-project-template <project_name>
 
 ```
 
