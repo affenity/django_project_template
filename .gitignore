@@ -21,3 +21,12 @@ atlassian-ide-plugin.xml
 
 #startapp commands
 startapp*.cmd
+
+
+# Windows
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
