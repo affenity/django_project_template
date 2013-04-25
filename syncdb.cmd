@@ -1,2 +1,2 @@
-python manage.py syncdb --noinput
+python manage.py syncdb
 pause
